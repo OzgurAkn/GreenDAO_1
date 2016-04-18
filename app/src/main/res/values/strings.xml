@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Greendao_0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_user">UpdateUser</string>
+    <string name="name">Naam: </string>
+    <string name="age">Leeftijd: </string>
+    <string name="adress">Adres: </string>
+    <string name="zipcode">Postcode: </string>
+    <string name="city">Gemeente: </string>
+</resources>
